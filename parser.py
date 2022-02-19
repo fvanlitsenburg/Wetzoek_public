@@ -1,5 +1,4 @@
 # %%
-#PANDAS, MATPLOTLIB
 import pandas as pd 
 import xml.etree.ElementTree as et
 import os
@@ -88,25 +87,6 @@ meta_3 = ('{http://www.rechtspraak.nl/schema/rechtspraak-1.0}para',
  
 conclusie = ('{http://www.rechtspraak.nl/schema/rechtspraak-1.0}uitspraak','{http://www.rechtspraak.nl/schema/rechtspraak-1.0}conclusie')
 
-
-# We also want to identify the defendants and the plaintiffs, as well as the text of the ultimate *verdict* of the case
-# The below strings should help identify where these blocks with the 'uitspraak' section occur, using RegEx:
-beslissing_strings = ["Beslissing","De beslissing","BESLISSING"]
-beslissing_string = "(([0-9]\. )?"+")|(([0-9]\. )? ".join(beslissing_strings)+")"
-
-players_strings = ["Uitspraak (.*?) tussen","Uitspraak (.*?) van","Procedure","Procesverloop","Inhoud",
-                   "Het geding in hoger beroep","Onderzoek van de zaak", "Ontstaan en loop van het geding",
-                    "Het geding in eerste aanleg", "Het verdere verloop van het geding", "Het geding voorafgaande",
-                   "Het geding in feitelijke instantie", "Geding in cassatie","Conclusie (.*?) inzake"]
-players_string = "("+")|(".join(players_strings)+")"
-
-strings = ["http://deeplink.rechtspraak.nl/uitspraak\?id=","\\n"]
-string = "("+")|(".join(strings)+")"
-
-# To assist with the cleaning of references to other legal cases, we want to also scrub out references such as the below:
-wetboeken = ["Wft","Bpr","Rv","EVRM","BW","Sv","WvSv","Sr","WvS","WvSr","WvK","Awb","Mw","Tw","Wtra"]
-
-
 # %%
 # PARSE function parses the XML file
 
@@ -130,23 +110,10 @@ def parse(doc):
         'titel':'',
          }
     text={}
-    refs={}
-    clean_text={}
 
-    #data2['filesize'] = os.stat(doc).st_size
-    refs['uitgaande_links'] = {}
-    refs['inkomende_links'] = {}
-    errors = {'Tekst_missing' : []}
-    #errors['Filesize'] = data2['filesize']
     xtree = et.parse(doc)
     xroot = xtree.getroot()
-    print(doc)
 
-    error = 0
-    
-    errors['Missing'] = []
-    errors['Tekst_missing'] = 0
-    errors['Parse'] = 0
     #print("-Start parsing")
     #print("--Meta information")
     for x in meta_1:
@@ -165,8 +132,6 @@ def parse(doc):
             except:
                 meta[x] = "Not found"
                 #print(x + "error")
-                error = 1
-                errors['Missing'].append(x)
 
     # Find all the references to a) where the case is produced, b) references , c) a previous stage of the same case,        
 
@@ -199,17 +164,15 @@ def parse(doc):
         #print(x)
     except:
         #print("---No full text")
-        error = 2
-        errors['Tekst_missing'] = 1
         text['tekst'] = ""
     
-    return(meta,errors,text)
+    return(meta,text)
 
 # PARSE function parses the XML file
 
 
 # %%
-def appendcsv(zaken_rich, haystack, zaken_err, year):
+def appendcsv(zaken_rich, haystack, year):
     #print("-Appending to CSV")
     zaken_rich_out = pd.DataFrame.from_dict(zaken_rich, orient='index')
     zaken_rich_out.rename(columns={zaken_rich_out.columns[0]:'id'},inplace=True)
@@ -223,40 +186,27 @@ def appendcsv(zaken_rich, haystack, zaken_err, year):
     textfilename = "casetext_"+year+".csv"
     haystack_out = pd.DataFrame.from_dict(haystack, orient='index')
 
-
     haystack_out.to_csv(textfilename, mode='a', header=False, encoding="utf-8",sep='|',index=False)
 
-    #errs_out = pd.DataFrame.from_dict(zaken_err, orient='index')
-    #errs_out.to_csv('caseerrors.csv', mode='a', header=False)
 
 
 # %%
 def rework(year):
     filename = "caseinfo_"+year +".csv"
     textfilename = "casetext_"+year+".csv"
-    df1 = pd.read_csv(filename,encoding="utf-8",delimiter="|")
-    df2 = pd.read_csv(textfilename,encoding="utf-8",delimiter="|",names=["tekst"])
-    mapper = pd.read_csv("instanties_map.csv",encoding="utf-8")
-    df1 = df1.merge(mapper,left_on='instantie',right_on='instantie',how='left')
     
-    # Map DFs - rechtsgebieden
-    mapper2 = pd.read_csv("rechtsgebieden_map.csv",encoding="utf-8")
-    df1['rechtsgebied'] = df1['rechtsgebied'].astype(str)
-    df1['rechtsgebied'] = df1['rechtsgebied'].map(lambda x: x.lstrip("\['").rstrip("'/]"))
-    df1 = df1.merge(mapper2,left_on='rechtsgebied',right_on='Raw',how='left')
-
     df1['procedure'] = df1['procedure'].str.replace("Not found","Geen informatie")
 
     # Add the 'jurisprudentie' column
     df1['Bron'] = 'Jurisprudentie'
-
-    # Add the text as the final column
 
     #kill some columns
     df1.drop(["publisher","bereik","rechtsgebied","vervangt","relaties","commentaren","Source","Raw"],axis=1,inplace=True)
     df1['titel'][df1['procedure']=="Geen informatie"] = df1['id'] + ": zaak " + df1['zaaknummer'] +" van " + df1['datum'] + " bij de " + df1['instantie']
     df1['titel'][df1['procedure']!="Geen informatie"] = df1['id'] + ": zaak " + df1['zaaknummer'] +" van " + df1['datum'] + " bij de " + df1['instantie'] +". " + df1['procedure']
 
+    # Add the text as the final column
+    
     df1['text'] = df2['tekst'].to_numpy()
 
     df1.drop_duplicates(inplace=True)
@@ -287,29 +237,19 @@ for i in dirs[16:]:
                     #print("Capturing information for:" + j.filename +", size is " + str(j.file_size))
                     zaken_rich={}
                     zaken_err={}
-                    refs_in={}
-                    refs_out={}
                     haystack={}
                     model_step1={}
                     f = z.open(j)
                     parsed = parse(f)
                     temp_zaken = parsed[0]
-                    errors = parsed[1]
                     temp_zaken['filesize'] = j.file_size
-                    errors['filesize'] = j.file_size
                     caseid = temp_zaken['identifier']
                     if temp_zaken['identifier']:
 
                         zaken_rich[caseid] = temp_zaken
-                        haystack[caseid] = parsed[2]['tekst']
+                        haystack[caseid] = parsed[1]['tekst']
 
-                        #identifier = refs_in[caseid]
-
-                    if errors:
-                        zaken_err[caseid] = errors
-
-
-                    appendcsv(zaken_rich, haystack, zaken_err, i)
+                    appendcsv(zaken_rich, haystack, i)
         except Exception as e:
             print(e)
             errs.append(e)
