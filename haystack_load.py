@@ -4,7 +4,7 @@ import time
 import json
 import os
 
-from haystack.document_store.elasticsearch import ElasticsearchDocumentStore
+from haystack.document_stores import ElasticsearchDocumentStore
 from haystack.utils import launch_es
 import pandas as pd
 from pathlib import Path
@@ -75,7 +75,6 @@ files = [
 'caseinfopush_2021.csv',
 ]
 
-
 def cases_to_dicts(filename_cases,type='Cases'):
     ret = []
     df = pd.read_csv(doc_dir / filename_cases, nrows=n_docs, sep="|")
@@ -101,7 +100,7 @@ def main(filename_cases,type_fn):
     document_store = ElasticsearchDocumentStore(analyzer=language, index=doc_index, timeout=300)
     print("Reading file...")
 
-    dicts = cases_and_laws_to_dicts(filename_cases,type_fn)
+    dicts = cases_to_dicts(filename_cases,type_fn)
 
     print()
 
@@ -130,7 +129,7 @@ def main(filename_cases,type_fn):
     print(toc-tic)
 
 if __name__ == "__main__":
-    document_store.delete_documents(index=doc_index)
     for i in files:
         print(i)
         main(i,'Cases')
+
