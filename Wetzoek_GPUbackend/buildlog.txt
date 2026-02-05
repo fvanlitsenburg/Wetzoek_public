@@ -1,0 +1,2469 @@
+caseinfopush_2001.csv
+Reading file...
+Cases from data loaded
+0  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7315943759999755
+Number of split docs
+5678
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+100.15402754600018
+1  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9095682120005222
+Number of split docs
+6916
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+117.31960776300002
+2  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9253097079999861
+Number of split docs
+5983
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+95.22246057900065
+3  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8518277270004546
+Number of split docs
+5536
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+93.28332792600031
+4  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8188949629993658
+Number of split docs
+6056
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+102.32898321199991
+5  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.7221743469999637
+Number of split docs
+5437
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+90.2936827930007
+6  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1229033139998137
+Number of split docs
+7190
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+126.99576027700004
+7  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8627158580002288
+Number of split docs
+6347
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+103.34062232199994
+8  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7728103330000522
+Number of split docs
+5214
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+98.45243191699956
+9  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1076046790003602
+Number of split docs
+6992
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+116.9542788609997
+10  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8360509670001193
+Number of split docs
+5258
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+84.2392256789999
+11  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8455677050005761
+Number of split docs
+6611
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+108.20215260900022
+12  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6993542230002276
+Number of split docs
+5785
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+91.35168939800042
+13  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8148254019997694
+Number of split docs
+6249
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+100.24623085700023
+14  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.831757160000052
+Number of split docs
+6749
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+109.23427519199959
+15  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1235719050000625
+Number of split docs
+6550
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+97.93829316100073
+16  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6537249090006299
+Number of split docs
+4974
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+83.40915214100005
+17  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7393428870000207
+Number of split docs
+6181
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+94.31680323399996
+18  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8454810920002274
+Number of split docs
+5930
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+98.20650966300036
+19  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6775351729993417
+Number of split docs
+5557
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+87.37932768399969
+20  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6609000919997925
+Number of split docs
+5238
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+82.37287115300023
+21  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.768942738000078
+Number of split docs
+6147
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+101.30597627999941
+22  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6893457890000718
+Number of split docs
+5494
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+82.37586761800048
+23  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.2518173330008722
+Number of split docs
+7025
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+113.75151827199988
+24  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.626574736999828
+Number of split docs
+5007
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+78.42379882500063
+25  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6644698549998793
+Number of split docs
+5395
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+86.41129572999944
+26  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6984035730001779
+Number of split docs
+5069
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+86.35203000599995
+27  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6998978130004616
+Number of split docs
+5593
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+98.3465217109997
+28  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7751938319997862
+Number of split docs
+6176
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+97.28038975900017
+29  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7283899850008311
+Number of split docs
+5296
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+90.29909364700052
+30  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8485213659996589
+Number of split docs
+6496
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+108.2168196040002
+31  /  32
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+26
+
+Preprocessing...
+0.04943706099948031
+Number of split docs
+326
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+11.932071762000305
+caseinfopush_2002.csv
+Reading file...
+Cases from data loaded
+0  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7113477860002604
+Number of split docs
+5779
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+91.12235049399987
+1  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7429800090003482
+Number of split docs
+5439
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+91.29277757199998
+2  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.824691828000141
+Number of split docs
+6040
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+94.22739295199972
+3  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.73507841799983
+Number of split docs
+5875
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+94.30826294599956
+4  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9757164929997089
+Number of split docs
+7529
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+128.08743660300024
+5  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7165240419999463
+Number of split docs
+5960
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+94.33260464700015
+6  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8230147340000258
+Number of split docs
+6152
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+96.22942617199988
+7  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8811330680000538
+Number of split docs
+6482
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+107.1740977039999
+8  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7344391770002403
+Number of split docs
+6085
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+98.34225114499986
+9  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6624680819995774
+Number of split docs
+5262
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+80.36827088300015
+10  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6099971359999472
+Number of split docs
+4825
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+76.42501791999985
+11  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.0352195100003883
+Number of split docs
+6700
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+111.01544770000055
+12  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6415731849992881
+Number of split docs
+4798
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+76.3955258040005
+13  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6627396349995252
+Number of split docs
+5371
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+84.36623922299987
+14  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6732471369996347
+Number of split docs
+5198
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+84.36614010700032
+15  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.826360303999536
+Number of split docs
+6848
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+111.23683247000008
+16  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.556764707000184
+Number of split docs
+3987
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+63.469082044999595
+17  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.781651094001063
+Number of split docs
+6072
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+94.25668082800075
+18  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7315582700011873
+Number of split docs
+5733
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+93.30562859999918
+19  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9994881929997064
+Number of split docs
+7031
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+115.06188131899944
+20  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6099921029999678
+Number of split docs
+4190
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+66.40531458899932
+21  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7311612129997229
+Number of split docs
+5967
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+92.31596570500005
+22  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.0680929869995452
+Number of split docs
+6735
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+111.9847653400011
+23  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6937415209995379
+Number of split docs
+5572
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+89.35150533999877
+24  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6804073710009106
+Number of split docs
+4777
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+74.34067451300143
+25  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6155892370006768
+Number of split docs
+4722
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+73.41579839400038
+26  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8091992989993742
+Number of split docs
+6482
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+105.24026599100034
+27  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6636489650009025
+Number of split docs
+5246
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+83.3780234549995
+28  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7035096520012303
+Number of split docs
+5400
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+84.33340858100019
+29  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7357962829992175
+Number of split docs
+5102
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+82.30512838400136
+30  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9317750040008832
+Number of split docs
+7527
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+126.13397827399967
+31  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6957385219993739
+Number of split docs
+4889
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+78.33298553399982
+32  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7173545890000241
+Number of split docs
+5776
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+91.32997749499918
+33  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.582423674999518
+Number of split docs
+4528
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+74.453343520001
+34  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9244745120013249
+Number of split docs
+7402
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+122.13782161800009
+35  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7700092779996339
+Number of split docs
+5892
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+93.27867305600012
+36  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.835586086001058
+Number of split docs
+6719
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+105.2161396449992
+37  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.5623427529990295
+Number of split docs
+4459
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+73.46670396199988
+38  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.0350649680003698
+Number of split docs
+8345
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+136.0382774789996
+39  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6401223529992421
+Number of split docs
+4915
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+77.3934936730002
+40  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7040471230011462
+Number of split docs
+5647
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+86.35028282500025
+41  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7279727620007179
+Number of split docs
+5805
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+91.32026046899955
+42  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.0286424360001547
+Number of split docs
+8094
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+135.03897516899997
+43  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7823258249991341
+Number of split docs
+6265
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+100.26710935199844
+44  /  45
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+242
+
+Preprocessing...
+0.7226849639991997
+Number of split docs
+4827
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+76.30242136000015
+caseinfopush_2003.csv
+Reading file...
+Cases from data loaded
+0  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7337235619997955
+Number of split docs
+6053
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+97.65527172399925
+1  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8802208020006219
+Number of split docs
+6785
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+116.18350364599974
+2  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.815001842998754
+Number of split docs
+6232
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+101.26277999000013
+3  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7500942639999266
+Number of split docs
+5730
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+88.29467516899967
+4  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.859201604998816
+Number of split docs
+5950
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+98.10732676399857
+5  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9826846960004332
+Number of split docs
+7540
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+126.07190240399905
+6  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8792404350006109
+Number of split docs
+6042
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+97.16259779400025
+7  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6518694949991186
+Number of split docs
+4708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+73.37231714999871
+8  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6890462200008187
+Number of split docs
+5699
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+88.3682485979989
+9  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8033959559998038
+Number of split docs
+5065
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+81.23746189399935
+10  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.0118564069998683
+Number of split docs
+8008
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+132.0597199290005
+11  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7071315609991871
+Number of split docs
+5195
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+82.34779626599993
+12  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.772070167999118
+Number of split docs
+6189
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+96.27352902200073
+13  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.728419944000052
+Number of split docs
+5834
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+91.31585369599998
+14  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.102089652998984
+Number of split docs
+7785
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+130.9696575580001
+15  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7325597729995934
+Number of split docs
+5843
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+92.31460368999979
+16  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6713092760001018
+Number of split docs
+5213
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+81.36090748199967
+17  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8275553849998687
+Number of split docs
+6448
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+101.21932039400053
+18  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9758299329987494
+Number of split docs
+7586
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+125.10949844499919
+19  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.693433680000453
+Number of split docs
+5589
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+86.3480842959998
+20  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8935033429988835
+Number of split docs
+6893
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+107.17546457400022
+21  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7775089510014368
+Number of split docs
+6029
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+100.26973683200049
+22  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9769757309986744
+Number of split docs
+7862
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+129.09194379900146
+23  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7610499590009567
+Number of split docs
+5597
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+88.2828281839993
+24  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6610741210006381
+Number of split docs
+5129
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+80.36482388999866
+25  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7890892880004685
+Number of split docs
+6346
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+100.26765587900081
+26  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1904807560003974
+Number of split docs
+7921
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+130.879873848
+27  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1059918530008872
+Number of split docs
+6837
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+109.94711403499969
+28  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6583349000011367
+Number of split docs
+4661
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+79.33274686100049
+29  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8239787400016212
+Number of split docs
+6132
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+97.2260118610011
+30  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8704065330002777
+Number of split docs
+6738
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+108.183809999
+31  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8233934299987595
+Number of split docs
+5217
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+82.21985749599844
+32  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7584298189995025
+Number of split docs
+5737
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+89.28203295099956
+33  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6198861089997081
+Number of split docs
+4897
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+76.41444972200043
+34  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.2084906660002162
+Number of split docs
+9058
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+141.87130844899912
+35  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6931681349997234
+Number of split docs
+5471
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+85.34719488799965
+36  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6969628520000697
+Number of split docs
+5362
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+85.33271724600127
+37  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6467779810009233
+Number of split docs
+5486
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+84.3903294260017
+38  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.076905207000891
+Number of split docs
+7901
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+127.99044399599916
+39  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7629470560004847
+Number of split docs
+6125
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+97.28454698399946
+40  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.5826731999986805
+Number of split docs
+4358
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+67.4413681269998
+41  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8945035190008639
+Number of split docs
+4953
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+78.12757175099978
+42  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7823589460003859
+Number of split docs
+6183
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+107.26071489599963
+43  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9415829999998095
+Number of split docs
+7260
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+127.10450913000022
+44  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7073400650006079
+Number of split docs
+5858
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+94.34553525199954
+45  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6131679329992039
+Number of split docs
+4660
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+75.43134944600024
+46  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7062883340004191
+Number of split docs
+5976
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+96.31567188599911
+47  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.807698716998857
+Number of split docs
+6228
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+104.2478640090012
+48  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1548892639984842
+Number of split docs
+8257
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+139.93768252799964
+49  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.2013405760008027
+Number of split docs
+6696
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+107.83747404099995
+50  /  51
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+246
+
+Preprocessing...
+0.6006736979998095
+Number of split docs
+4406
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+73.41657607200068
+caseinfopush_2004.csv
+Reading file...
+Cases from data loaded
+0  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7062037770010647
+Number of split docs
+5708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+93.02240537699981
+1  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9265035850003187
+Number of split docs
+5162
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+86.0934247419973
+2  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.0075498049991438
+Number of split docs
+8009
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+135.06511797599887
+3  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.731515183000738
+Number of split docs
+5693
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+104.8559276240012
+4  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7711955429986119
+Number of split docs
+4791
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+4313.854273443001
+5  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.0282815199971083
+Number of split docs
+6538
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+121.71324840300076
+6  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1309101850019943
+Number of split docs
+7033
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+caseinfopush_2004.csv
+Reading file...
+Cases from data loaded
+0  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7425670349999791
+Number of split docs
+5708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+109.73324700900002
+1  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6729127529999914
+Number of split docs
+5162
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+caseinfopush_2004.csv
+Reading file...
+Cases from data loaded
+0  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7734746239999595
+Number of split docs
+5708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 100) to a lower value. Aim to on average complete batch request within less than 10s
+96.95047692200001
+1  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7424400059999243
+Number of split docs
+5162
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 100) to a lower value. Aim to on average complete batch request within less than 10s
+384.036021443
+2  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1595322030000261
+Number of split docs
+8009
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 100) to a lower value. Aim to on average complete batch request within less than 10s
+661.197923086
+3  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8262367780000659
+Number of split docs
+5693
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+caseinfopush_2004.csv
+Reading file...
+Cases from data loaded
+0  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8436410720000254
+Number of split docs
+5708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 50) to a lower value. Aim to on average complete batch request within less than 10s
+96.648126623
+1  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7169207080000319
+Number of split docs
+5162
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 50) to a lower value. Aim to on average complete batch request within less than 10s
+76.19945151299999
+2  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1026634079999553
+Number of split docs
+8009
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+caseinfopush_2004.csv
+Reading file...
+Cases from data loaded
+0  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.799368587999993
+Number of split docs
+5708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+418.63509342300006
+1  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7904436170000508
+Number of split docs
+5162
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+94.9626318820001
+2  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.314740454999992
+Number of split docs
+8009
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+707.633785666
+3  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9583553269999356
+Number of split docs
+5693
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+656.728234836
+4  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8076341349997165
+Number of split docs
+4791
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+539.0481775930002
+5  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1831726820000767
+Number of split docs
+6538
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+648.726256033
+6  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.2315945959999226
+Number of split docs
+7033
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+Schema could not be retrieved.
+961.2759279329998
+7  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.1514466489998085
+Number of split docs
+6039
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+566.6785330249995
+8  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6950921699999526
+Number of split docs
+3968
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+330.3659399520002
+9  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.6719632439999259
+Number of split docs
+4297
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+88.62779206699997
+10  /  62
+Loading document stores
+caseinfopush_2004.csv
+Reading file...
+Cases from data loaded
+0  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7954147650000323
+Number of split docs
+5708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+537.942932463
+1  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.9026553950000107
+Number of split docs
+5162
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 15s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+639.231619484
+2  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+1.3080999769999835
+Number of split docs
+8009
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+caseinfopush_2004.csv
+Reading file...
+Cases from data loaded
+0  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.722992999999974
+Number of split docs
+5708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 30s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+206.0061576779999
+1  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8084829939998599
+Number of split docs
+5162
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 30s. Try reducing the batch size (currently 10) to a lower value. Aim to on average complete batch request within less than 10s
+386.13419563699995
+2  /  62
+caseinfopush_2004.csv
+Reading file...
+Cases from data loaded
+0  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.7804123089999848
+Number of split docs
+5708
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+The 'objects' creation was cancelled because it took longer than the configured timeout of 120s. Try reducing the batch size (currently 5) to a lower value. Aim to on average complete batch request within less than 10s
+937.2209631779997
+1  /  62
+Loading document stores
+Running with pre-embedding
+Number of docs before splitting
+250
+
+Preprocessing...
+0.8491396879999229
+Number of split docs
+5162
+Writing to document store...
+True
+About to run the pre-embedding
+Running the pre-embedding
+Unable to create tensor, you should probably activate truncation and/or padding with 'padding=True' 'truncation=True' to have batched tensors with the same length.
+The 'objects' creation was cancelled because it took longer than the configured timeout of 120s. Try reducing the batch size (currently 5) to a lower value. Aim to on average complete batch request within less than 10s
+327.348425057
+2  /  62

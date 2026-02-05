@@ -1,0 +1,14 @@
+instanties_map.csv
+instanties_map_old.csv
+procedures_map.csv
+rechtsgebieden_map.csv
+/__pycache__
+*.pyc
+question_groNLPmed.pickle
+question.pickle
+readme.txt
+casesdoc2query-msmarco-dutch-mt5-base-v1.pickle
+answers.csv
+doc2query-msmarco-dutch-mt5-base-v1.pickle
+/__pycache__
+/.ipynb_checkpoints
